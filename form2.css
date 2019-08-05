@@ -1,0 +1,29 @@
+body{
+background-color: rgb(123, 45, 196);
+}
+.st-form{
+display: flex;
+justify-content:center;
+margin-top:100px;
+}
+.s{
+margin-bottom: 10px;
+}
+.sttyle{
+color:white;
+font-size: 20px;
+}
+.z{
+height: 100px;
+width: 200px;
+}
+input{
+background-color:gray;
+color:white;
+}
+.st-but{
+margin-left: 571px;
+}
+.butun{
+margin-bottom: 10px;
+}
